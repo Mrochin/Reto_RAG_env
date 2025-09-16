@@ -1,0 +1,17 @@
+# Requisitos mínimos para ejecutar RETO_RAG.ipynb
+
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+langchain-chroma>=0.1.0
+chromadb>=0.5.0
+pypdf>=4.2.0
+chromadb>=0.5.0
+pypdf>=4.2.0
+pytest>=8.2.0
+
+# Opcionales (puedes instalarlos si los necesitas)
+# tiktoken>=0.7.0      # Conteo de tokens más preciso
+# papermill>=2.6.0     # Ejecución automática de notebooks
+# pytest>=8.2.0        # Pruebas unitarias
+# ruff>=0.5.0          # Linter estilo de código
